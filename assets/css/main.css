@@ -2906,3 +2906,12 @@ input, select, textarea {
 			}
 
 	}
+
+#footer {
+	text-align: center;
+	padding: 20px 0;
+}
+
+	#footer p {
+		margin-bottom: 10px;
+	}
