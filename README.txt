@@ -1,8 +1,8 @@
 # TasteBuddies
 Iron Team
 
-##CS 410 Website
-TODO: Add Description
+##CS 411 Website
+Taste Buddies 411W Project Website
 
 ##Team Members
 Colette Woods       cwodu
